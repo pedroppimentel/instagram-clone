@@ -1,3 +1,5 @@
+# Instagram Clone using Angular from Jorge Sant'Anna udemy course
+
 # App3
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
